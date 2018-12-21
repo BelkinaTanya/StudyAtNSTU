@@ -29,7 +29,7 @@ namespace OOPLab1_2
                 else
                     Console.WriteLine("Буква \"{0}\" встречается {1} раз", kvp.Key, kvp.Value);
             }
-            Console.ReadKey();
+          
         }
     }
 }
